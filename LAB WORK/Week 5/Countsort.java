@@ -39,8 +39,8 @@ class CountingSort {
     public static void main(String args[])
     {
         CountingSort ob = new CountingSort();
-        char arr[] = { 'g', 'e', 'e', 'k', 's', 'f', 'o',
-                       'r', 'g', 'e', 'e', 'k', 's' };
+        char arr[] = { 's', 'h', 'o', 'u', 't', 'o', 'u',
+                       't', 't', 'o', 'm', 'e' };
  
         ob.sort(arr);
  
